@@ -1,5 +1,5 @@
 # email-spam-detector
-Java program to detect spam emails using Apache Spark Mlib & Logistic Regression
+Java program to detect spam emails using Apache Spark Mlib & Logistic Regression. With Eclipse IDE.
 
 Reference: https://github.com/klevis/emailSpamFilter
 and his nice blog: 1-Logistic Regression http://ramok.tech/2017/09/26/email-spam-classifier-java-application-with-spark/
