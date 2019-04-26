@@ -1,0 +1,15 @@
+*.jar
+*log*
+*.log
+.classpath
+.DS_Store
+.gradle
+gradle/
+**/gen/**
+**/bin/**
+**/proguard/**
+**/deploy/**
+**/classes/**
+bin/
+libs/
+build/
